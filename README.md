@@ -13,7 +13,16 @@ About Me
 
 **Technical Skills**  
 
-![image](https://user-images.githubusercontent.com/44319185/207083066-3a92af89-bde8-4b10-adaf-02114077b280.png)
+
+Performance Testing Tools:	JMeter, HP Load Runner, Neo Load
+Protocols Used in Load Runner:	Web/Http, Web Services, Ajax True Client, MAPI, SMTP protocol
+Mobile Performance Testing Tools:	Android Studio, Browser Stack
+Client Side Performance Testing:	DebugBear, WebVitals, Google Lighthouse, Http Watch
+Proxy Debugging Tools:	Fiddler, Badboy, Charles
+Performance Execution & Live Monitoring:	Grafana, Octoperf, HP Performance Center/Controller, Blazemeter
+![image](https://user-images.githubusercontent.com/44319185/207083323-f1d8a816-4872-4637-a0f6-2eff9c758b6d.png)
+
+
 
 
 
