@@ -11,9 +11,10 @@ About Me
 - 💼 My [email](mailto:dhardebasish200@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**Technical Skills**  
 
-![image](https://user-images.githubusercontent.com/44319185/207082789-e821f5a3-f36f-40f5-a935-d64795d81fbd.png)
+![image](https://user-images.githubusercontent.com/44319185/207083066-3a92af89-bde8-4b10-adaf-02114077b280.png)
+
 
 
 
