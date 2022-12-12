@@ -13,29 +13,8 @@ About Me
 
 **languages and tools:**  
 
-Performance Testing Tools:	JMeter, HP Load Runner, Neo Load
-Protocols Used in Load Runner:	Web/Http, Web Services, Ajax True Client, MAPI, SMTP protocol
-Mobile Performance Testing Tools:	Android Studio, Browser Stack
-Client Side Performance Testing:	DebugBear, WebVitals, Google Lighthouse, Http Watch
-Proxy Debugging Tools:	Fiddler, Badboy, Charles
-Performance Execution & Live Monitoring:	Grafana, Octoperf, HP Performance Center/Controller, Blazemeter
-Performance Engineering Tools:	
-Heap Dump Analysis Tools:	J Console, MAT (Eclipse Memory Analyzer)
-Thread Dump Analysis Tools:	J Visual VM, Java Mission Control (JMC), Fast Thread
-GC Log Analysis Tools:	GC Easy, IBM support Assistant Workbench
-UNIX Server Monitoring:	VM Stat Log Analysis(VMStatly), NMON Log Analysis
-Performance Engineering Tools:	AWR Report Analysis, New Relic APM, Perfmon, J Console, CA Wily Introscope, App Dynamics, Microsoft Exchange Server Jet stress 2013
-Chaos Engineering Tools:	
-Chaos Engineering :	Gremlin - Resource, State & Network Attacks on servers using Gremlin
-Cloud Server Monitoring Tools:	
-AWS	AWS Dashboard creation, CloudWatch,EC2 instance,AWS Lambda,API Gateway,Dynamo DB
-Microsoft Azure	Azure Dashboard Creation, App Insights, Container Insights, VM Insights, Performance Insights Report
-Kubernetes 	Monitoring Kubernetes services using Grafana & ELK
-Other Tools:	
-Requirement Gathering Tools:	Google Analytics, Confluence, JIRA
-CI/CD:	Jenkins
-Defect Management Tools:	Azure Devops, Bugzilla
-API Testing Tools:	Postman
+![image](https://user-images.githubusercontent.com/44319185/207082789-e821f5a3-f36f-40f5-a935-d64795d81fbd.png)
+
 
 
 
