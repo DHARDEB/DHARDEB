@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm [Debasish Dhar](https://www.linkedin.com/in/d-dhar/), a passionate Performance Tester, Performance Engineer, Chaos Engineer from India. My passion for software lies with dreaming up ideas and making them come true with . 
+I'm [Debasish Dhar](https://www.linkedin.com/in/d-dhar/), a passionate Performance Tester, Performance Engineer, Chaos Engineer from India.
 
 About Me
 
