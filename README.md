@@ -13,16 +13,31 @@ About Me
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Performance Testing Tools:	JMeter, HP Load Runner, Neo Load
+Protocols Used in Load Runner:	Web/Http, Web Services, Ajax True Client, MAPI, SMTP protocol
+Mobile Performance Testing Tools:	Android Studio, Browser Stack
+Client Side Performance Testing:	DebugBear, WebVitals, Google Lighthouse, Http Watch
+Proxy Debugging Tools:	Fiddler, Badboy, Charles
+Performance Execution & Live Monitoring:	Grafana, Octoperf, HP Performance Center/Controller, Blazemeter
+Performance Engineering Tools:	
+Heap Dump Analysis Tools:	J Console, MAT (Eclipse Memory Analyzer)
+Thread Dump Analysis Tools:	J Visual VM, Java Mission Control (JMC), Fast Thread
+GC Log Analysis Tools:	GC Easy, IBM support Assistant Workbench
+UNIX Server Monitoring:	VM Stat Log Analysis(VMStatly), NMON Log Analysis
+Performance Engineering Tools:	AWR Report Analysis, New Relic APM, Perfmon, J Console, CA Wily Introscope, App Dynamics, Microsoft Exchange Server Jet stress 2013
+Chaos Engineering Tools:	
+Chaos Engineering :	Gremlin - Resource, State & Network Attacks on servers using Gremlin
+Cloud Server Monitoring Tools:	
+AWS	AWS Dashboard creation, CloudWatch,EC2 instance,AWS Lambda,API Gateway,Dynamo DB
+Microsoft Azure	Azure Dashboard Creation, App Insights, Container Insights, VM Insights, Performance Insights Report
+Kubernetes 	Monitoring Kubernetes services using Grafana & ELK
+Other Tools:	
+Requirement Gathering Tools:	Google Analytics, Confluence, JIRA
+CI/CD:	Jenkins
+Defect Management Tools:	Azure Devops, Bugzilla
+API Testing Tools:	Postman
+
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
