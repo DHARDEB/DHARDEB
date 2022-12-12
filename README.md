@@ -11,7 +11,7 @@ About Me
 - 📚 TOEFL 100
 - 🌏 Currently living in India
 - 💼 My [email](mailto:dhardebasish200@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help.
 
 **Technical Skills**  
 
