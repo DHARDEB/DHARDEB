@@ -1,5 +1,5 @@
-### hey there
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+### hey there,
+My Linkedin Profile: <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
