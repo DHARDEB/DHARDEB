@@ -6,7 +6,7 @@ About Me
 
 - 🔭 Passionate about Data Analysis, Performance Engineering & Chaos Engineering.
 - 🌱 GNIT Kolkata,Master of Technology(CSE)(2020-2022)
-    NIT Agartala,Btech 2007-2011
+- 🌱 NIT Agartala,Btech 2007-2011
 - 🌏 Lives in India
 - 💼 My [email](mailto:dhardebasish200@gmail.com)
 - 💬 ask me about anything, i am happy to help;
