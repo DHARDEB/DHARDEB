@@ -1,8 +1,14 @@
 ### Hello there 👋
 
 I'm [Debasish Dhar](https://www.linkedin.com/in/d-dhar/), a passionate Performance Tester, Performance Engineer, Chaos Engineer from India. My passion for software lies with dreaming up ideas and making them come true with . 
-  
-- 💼 any freelance work? do reach, [email](mailto:dhardebasish200@gmail.com) :)
+
+About Me
+
+- 🔭 Passionate about Data Analysis, Performance Engineering & Chaos Engineering.
+- 🌱 GNIT Kolkata,Master of Technology(CSE)(2020-2022)
+    NIT Agartala,Btech 2007-2011
+- 🌏 Lives in India
+- 💼 [email](mailto:dhardebasish200@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
