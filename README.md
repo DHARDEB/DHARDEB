@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm [Debasish Dhar](https://www.linkedin.com/in/d-dhar/), a passionate Performance Engineer & Chaos Engineer from India. Currently working in EPAM Systems as a Senior Performance Engineer.
+I'm [Debasish Dhar](https://www.linkedin.com/in/d-dhar/), a passionate Performance Engineer & Chaos Engineer from India. Currently working as a Senior Performance Engineer in EPAM Systems .
 
 About Me
 
