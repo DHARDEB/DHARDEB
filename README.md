@@ -23,9 +23,9 @@ About Me
 
 ```text
 Performance Engineering   14 hrs 57 mins  █████████████████▒░░░░░░░   69.35 %
-Chaos Engineering         2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Data Analytics         2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 Performance Testing          1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Team Leading        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Chaos Engineering        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
