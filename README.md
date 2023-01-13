@@ -4,11 +4,11 @@ I'm [Debasish Dhar](https://www.linkedin.com/in/d-dhar/), a passionate Performan
 
 About Me
 
-- 🔭 Passionate about Data Analysis, Performance Engineering & Chaos Engineering.
+- 🔭 Passionate about Data Analytics, Performance Engineering & Chaos Engineering.
 - 👨‍🎓 GNIT Kolkata,Master of Technology(CSE)(2020-2022)
 - 👨‍🎓 NIT Agartala,Btech 2007-2011
 - 📚 GMAT 750 QA 51 VA 40 AWA 6
-- 📚 TOEFL 100
+- 📚 TOEFL 118
 - 🌏 Currently living in India
 - 💼 My [email](mailto:dhardebasish200@gmail.com)
 - 💬 ask me about anything, i am happy to help.
