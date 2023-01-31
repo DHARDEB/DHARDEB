@@ -2,16 +2,19 @@
 
 I'm [Debasish Dhar](https://www.linkedin.com/in/d-dhar/), a passionate Performance Engineer & Chaos Engineer from India. Currently working as a Senior Performance Engineer in EPAM Systems .
 
-About Me
+**About Me**
 
-- 🔭 Passionate everything about Data Analytics, Performance Engineering & Chaos Engineering.
+- 🔭 Passionate everything about Data Analytics, Performance Testing, Performance Engineering & Chaos Engineering.
+- 10 years & 7 months of full-time work experience.
+- 🌏 Currently living in India.
+- 💼 My [email](mailto:Debasish_Dhar@epam.com)
+- 💬 ask me about anything, i am happy to help.
+
+**Academics**
 - 👨‍🎓 GNIT Kolkata,Master of Technology(CSE)(2020-2022)
 - 👨‍🎓 NIT Agartala,Btech 2007-2011
 - 📚 GMAT 750 QA 51 VA 40 AWA 6
 - 📚 TOEFL 118
-- 🌏 Currently living in India
-- 💼 My [email](mailto:Debasish_Dhar@epam.com)
-- 💬 ask me about anything, i am happy to help.
 
 **Technical Skills**  
 
