@@ -15,10 +15,6 @@ About Me
 
 **Technical Skills**  
 
-![image](https://user-images.githubusercontent.com/44319185/207083432-5ceefca5-0d52-4adf-b45e-b19eedfb371a.png)
-
-TECHNICAL SKILLS:
-
 -----------------------------Performance Testing-----------------------------------
 
 • Performance Testing Tools: Apache JMeter, HP LoadRunner, Neo Load
