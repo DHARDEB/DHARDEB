@@ -49,7 +49,7 @@ About Me
 • Defect Management Tools: Azure DevOps, Bugzilla,Jira
 • API Testing Tools: Postman
 
-📊 **this week i spent my time on:**
+**This week I spent most of my time on:**
 <!--START_SECTION:waka-->
 
 ```text
