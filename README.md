@@ -10,7 +10,7 @@ About Me
 - 📚 GMAT 750 QA 51 VA 40 AWA 6
 - 📚 TOEFL 118
 - 🌏 Currently living in India
-- 💼 My [email](mailto:dhardebasish200@gmail.com)
+- 💼 My [email](mailto:Debasish_Dhar@epam.com)
 - 💬 ask me about anything, i am happy to help.
 
 **Technical Skills**  
