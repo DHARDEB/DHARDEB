@@ -17,6 +17,41 @@ About Me
 
 ![image](https://user-images.githubusercontent.com/44319185/207083432-5ceefca5-0d52-4adf-b45e-b19eedfb371a.png)
 
+TECHNICAL SKILLS:
+
+-----------------------------Performance Testing-----------------------------------
+
+• Performance Testing Tools: Apache JMeter, HP LoadRunner, Neo Load
+• Protocols Used in Load Runner: Web/Http, Web Services, Ajax True Client, MAPI, SMTP protocol
+• Mobile Performance Testing Tools: Apptim, Android Studio, Browser Stack, GenyMotion
+• Client-Side Performance Testing: Google Lighthouse, DebugBear, WebVitals, Http Watch
+• Proxy Debugging Tools: Chrome Dev Tools, Fiddler, Badboy, Charles
+• Performance Execution & Live Monitoring: Grafana, Octoperf, HP Performance Center/Controller, Blazemeter
+
+-----------------------------Performance Engineering-------------------------------
+
+• Heap Dump Analysis Tools: J Profiler, J Console, Eclipse MAT (Memory Analyzer), IBM HeapAnalyzer
+• GC Log Analysis Tools: GC Easy, IBM support Assistant Workbench, GC Viewer
+• Thread Dump Analysis Tools: Visual VM, Java Mission Control (JMC), Fast thread.io, Samurai TDA
+• Proc Dump Analysis: DebugDiag
+• DB Server Monitoring: AWR Report Analysis
+• UNIX Server Monitoring: VMStat Log Analysis (VMStatly), NMON Log Analysis
+• Performance Engineering Tools: Grafana, New Relic, ELK, Splunk, Perfmon, AppDynamics, Microsoft Exchange Server Jet stress
+
+---------------------------------Chaos Engineering-----------------------------------
+
+• Chaos Engineering Tools: Gremlin - Resource, State & Network Attacks using Gremlin
+• Cloud Server Monitoring:
+• AWS: AWS Dashboard creation, CloudWatch, EC2 instance, AWS Lambda, API Gateway, DynamoDB
+• Microsoft Azure: Azure Dashboard Creation, App Insights, Container Insights, VM Insights, Performance Insights Report
+• Kubernetes: Monitoring Kubernetes services using Grafana & ELK
+
+------------------------------------Other Testing Tools--------------------------------
+
+• Requirement Gathering Tools: Google Analytics, Confluence
+• CI/CD: Jenkins
+• Defect Management Tools: Azure DevOps, Bugzilla,Jira
+• API Testing Tools: Postman
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
